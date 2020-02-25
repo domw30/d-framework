@@ -1,4 +1,4 @@
-import React, { FC } from "react";
+import React, { FC } from 'react';
 
 export const App: FC<{}> = () => {
   return <div>Welcome to D - Framework</div>;
